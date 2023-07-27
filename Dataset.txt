@@ -1,0 +1,2 @@
+Download the dataset using the below link:
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
